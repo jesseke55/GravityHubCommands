@@ -1,0 +1,9 @@
+name: GravityHubCommands
+main: net.gravitynetwork.hubcommands.Main
+version: 1.0
+depend: [GravityHub]
+commands:
+  reloadhub:
+    usage: /<command>
+  clear:
+    usage: /<command>
